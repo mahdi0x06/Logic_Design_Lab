@@ -1,0 +1,4 @@
+*.DO linguist-detectable=false
+*.sts linguist-detectable=false
+*.pdsprj linguist-detectable=false
+*.circ linguist-detectable=false
